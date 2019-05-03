@@ -1,6 +1,5 @@
-# cs441final_project
+# cs441final_project: MyKitchen App
 
--MyKitchen App-
 Overview: I'm developing this app to allow people to keep track of the food in an individual's kitchen. This app will contain multiple views, each with it's own purpose.
 
 1. Fridge - Lists out all food items in the user's refridgerator.
