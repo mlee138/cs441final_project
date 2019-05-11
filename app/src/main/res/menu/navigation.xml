@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_kitchen"
+            android:icon="@android:color/holo_blue_dark"
+            android:title="Kitchen"/>
+
+    <item
+            android:id="@+id/navigation_recipes"
+            android:icon="@android:color/holo_blue_dark"
+            android:title="Recipes"/>
+
+    <item
+            android:id="@+id/navigation_shoppingList"
+            android:icon="@android:color/holo_blue_dark"
+            android:title="Shopping List"/>
+
+</menu>
